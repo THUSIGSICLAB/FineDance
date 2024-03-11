@@ -9,7 +9,7 @@
 
 ### Download the FineDance Dataset
 
-The part(7.7 hours) of FineDance dataset can be downloaded at [BaiduNetDisk](https://pan.baidu.com/s/1DdJjfXWZZvnUmqPUrOTf7g?pwd=dkqn)
+We introduce a Fine-grained Choreography Dance dataset(FineDance). It comprises over 14.6 hours of data collected from 346 paired songs and dances, was created by 27 professional dancers and a motion capture system, which has accurate body and hand motions. The fine-grained 22 dance genres of FineDance spanning traditional and modern styles, which make the genre-matching of generated dance sequences and given music become more challenging. The part(7.7 hours) of FineDance dataset can be downloaded at [BaiduNetDisk](https://pan.baidu.com/s/1DdJjfXWZZvnUmqPUrOTf7g?pwd=dkqn)
 
 
 ### Dataset Descriptions
